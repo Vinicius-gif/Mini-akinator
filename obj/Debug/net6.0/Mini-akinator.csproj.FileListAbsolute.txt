@@ -1,0 +1,15 @@
+C:\repositorios-git\Mini-akinator\bin\Debug\net6.0\Mini-akinator.exe
+C:\repositorios-git\Mini-akinator\bin\Debug\net6.0\Mini-akinator.deps.json
+C:\repositorios-git\Mini-akinator\bin\Debug\net6.0\Mini-akinator.runtimeconfig.json
+C:\repositorios-git\Mini-akinator\bin\Debug\net6.0\Mini-akinator.dll
+C:\repositorios-git\Mini-akinator\bin\Debug\net6.0\Mini-akinator.pdb
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.csproj.AssemblyReference.cache
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.AssemblyInfoInputs.cache
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.AssemblyInfo.cs
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.csproj.CoreCompileInputs.cache
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.dll
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\refint\Mini-akinator.dll
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.pdb
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\Mini-akinator.genruntimeconfig.cache
+C:\repositorios-git\Mini-akinator\obj\Debug\net6.0\ref\Mini-akinator.dll
